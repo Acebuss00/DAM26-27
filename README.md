@@ -8,7 +8,46 @@ Aunque me haya ido del zayas, seguís en mi corazón y quiero intentar ayudar vi
 - Carpeta Apuntes >> Aquí se subiran los PDF de teoría o cualquier tipo de apunte que hayais realizado en clase y creais que pueda venir bien a los demás
 - Carpetas Personales >> Podeis usar un poco este repo para vuestras propias cosas, a poder ser relacionadas con el curso, pero unicas a cada uno, aqui podeis subir vuestros ejercicios hechos/codigos y demás. Lo unico, pediros que no os metais en las carpetas personales de alguien sin preguntar o sin su consentimiento, descargad cuanto veais oportuno pero no hagais commits donde no se deba
 
-<pre> 📦 DAM26-27 ┣ 📂 Ejercicios ┃ ┣ 📂 1º Trimestre ┃ ┣ 📂 2º Trimestre ┃ ┗ 📂 3º Trimestre ┣ 📂 Apuntes ┃ ┣ 📂 1º Trimestre ┃ ┣ 📂 2º Trimestre ┃ ┗ 📂 3º Trimestre ┗ 📂 Carpetas Personales ┣ 📂 Usuario1 ┣ 📂 Usuario2 ┗ 📂 Usuario3 </pre>
+<pre>Estructura del repositorio
+📦 DAM26-27
+┃
+┣ 📂 Ejercicios
+┃ ┣ 📂 1º Trimestre
+┃ ┃ ┣ 📂 Acceso a datos
+┃ ┃ ┣ 📂 Desarrollo de interfaces
+┃ ┃ ┣ 📂 Programación multimedia y dispositivos móviles
+┃ ┃ ┗ 📂 Programación de servicios y procesos
+┃ ┃
+┃ ┗ 📂 2º Trimestre
+┃   ┣ 📂 Sistemas de gestión empresarial
+┃   ┣ 📂 Itinerario personal para la empleabilidad II
+┃   ┣ 📂 Sostenibilidad aplicada al sistema productivo
+┃   ┣ 📂 Digitalización aplicada a los sectores productivos
+┃   ┗ 📂 Optativas
+┃
+┣ 📂 Apuntes
+┃ ┣ 📂 1º Trimestre
+┃ ┃ ┣ 📂 Acceso a datos
+┃ ┃ ┣ 📂 Desarrollo de interfaces
+┃ ┃ ┣ 📂 Programación multimedia y dispositivos móviles
+┃ ┃ ┗ 📂 Programación de servicios y procesos
+┃ ┃
+┃ ┗ 📂 2º Trimestre
+┃   ┣ 📂 Sistemas de gestión empresarial
+┃   ┣ 📂 Itinerario personal para la empleabilidad II
+┃   ┣ 📂 Sostenibilidad aplicada al sistema productivo
+┃   ┣ 📂 Digitalización aplicada a los sectores productivos
+┃   ┗ 📂 Optativas
+┃
+┣ 📂 Proyectos
+┃ ┣ 📂 Proyecto intermodular
+┃ ┗ 📂 Proyectos personales
+┃
+┗ 📂 Carpetas Personales
+  ┣ 📂 Usuario1
+  ┣ 📂 Usuario2
+  ┗ 📂 Usuario3
+</pre>
 
 ## Información adicional
 Aquí escribiré cosas puntuales que iran siendo cambiadas de vez en cuando, no le deis mucha importancia, pero si os da curiosidad podreis verla :3
